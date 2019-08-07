@@ -23,7 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		033E8B3521A8711B00805E4F /* C1l_Barinov */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = C1l_Barinov; sourceTree = BUILT_PRODUCTS_DIR; };
+		033E8B3521A8711B00805E4F /* AiSD */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = AiSD; sourceTree = BUILT_PRODUCTS_DIR; };
 		033E8B3821A8711B00805E4F /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -41,7 +41,7 @@
 		033E8B2C21A8711B00805E4F = {
 			isa = PBXGroup;
 			children = (
-				033E8B3721A8711B00805E4F /* C1l_Barinov */,
+				033E8B3721A8711B00805E4F /* AiSD */,
 				033E8B3621A8711B00805E4F /* Products */,
 			);
 			sourceTree = "<group>";
@@ -49,25 +49,25 @@
 		033E8B3621A8711B00805E4F /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				033E8B3521A8711B00805E4F /* C1l_Barinov */,
+				033E8B3521A8711B00805E4F /* AiSD */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		033E8B3721A8711B00805E4F /* C1l_Barinov */ = {
+		033E8B3721A8711B00805E4F /* AiSD */ = {
 			isa = PBXGroup;
 			children = (
 				033E8B3821A8711B00805E4F /* main.c */,
 			);
-			path = C1l_Barinov;
+			path = AiSD;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		033E8B3421A8711B00805E4F /* C1l_Barinov */ = {
+		033E8B3421A8711B00805E4F /* AiSD */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 033E8B3C21A8711B00805E4F /* Build configuration list for PBXNativeTarget "C1l_Barinov" */;
+			buildConfigurationList = 033E8B3C21A8711B00805E4F /* Build configuration list for PBXNativeTarget "AiSD" */;
 			buildPhases = (
 				033E8B3121A8711B00805E4F /* Sources */,
 				033E8B3221A8711B00805E4F /* Frameworks */,
@@ -77,9 +77,9 @@
 			);
 			dependencies = (
 			);
-			name = C1l_Barinov;
+			name = AiSD;
 			productName = C1l_Barinov;
-			productReference = 033E8B3521A8711B00805E4F /* C1l_Barinov */;
+			productReference = 033E8B3521A8711B00805E4F /* AiSD */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -96,7 +96,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 033E8B3021A8711B00805E4F /* Build configuration list for PBXProject "C1l_Barinov" */;
+			buildConfigurationList = 033E8B3021A8711B00805E4F /* Build configuration list for PBXProject "AiSD" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -108,7 +108,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				033E8B3421A8711B00805E4F /* C1l_Barinov */,
+				033E8B3421A8711B00805E4F /* AiSD */,
 			);
 		};
 /* End PBXProject section */
@@ -257,7 +257,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		033E8B3021A8711B00805E4F /* Build configuration list for PBXProject "C1l_Barinov" */ = {
+		033E8B3021A8711B00805E4F /* Build configuration list for PBXProject "AiSD" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				033E8B3A21A8711B00805E4F /* Debug */,
@@ -266,7 +266,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		033E8B3C21A8711B00805E4F /* Build configuration list for PBXNativeTarget "C1l_Barinov" */ = {
+		033E8B3C21A8711B00805E4F /* Build configuration list for PBXNativeTarget "AiSD" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				033E8B3D21A8711B00805E4F /* Debug */,
