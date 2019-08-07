@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		031743FA22FB6FC700D65FA9 /* Lesson3.h in Sources */ = {isa = PBXBuildFile; fileRef = 031743F822FB6FC700D65FA9 /* Lesson3.h */; };
+		0317440122FB725700D65FA9 /* Lesson4.h in Sources */ = {isa = PBXBuildFile; fileRef = 0317440022FB725700D65FA9 /* Lesson4.h */; };
 		033E8B3921A8711B00805E4F /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 033E8B3821A8711B00805E4F /* main.c */; };
 /* End PBXBuildFile section */
 
@@ -27,6 +28,7 @@
 		031743EC22FB673D00D65FA9 /* Lesson1.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Lesson1.h; sourceTree = "<group>"; };
 		031743F222FB6B3100D65FA9 /* Lesson2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Lesson2.h; sourceTree = "<group>"; };
 		031743F822FB6FC700D65FA9 /* Lesson3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Lesson3.h; sourceTree = "<group>"; };
+		0317440022FB725700D65FA9 /* Lesson4.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Lesson4.h; sourceTree = "<group>"; };
 		033E8B3521A8711B00805E4F /* AiSD */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = AiSD; sourceTree = BUILT_PRODUCTS_DIR; };
 		033E8B3821A8711B00805E4F /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -65,6 +67,7 @@
 				031743EC22FB673D00D65FA9 /* Lesson1.h */,
 				031743F222FB6B3100D65FA9 /* Lesson2.h */,
 				031743F822FB6FC700D65FA9 /* Lesson3.h */,
+				0317440022FB725700D65FA9 /* Lesson4.h */,
 			);
 			path = AiSD;
 			sourceTree = "<group>";
@@ -126,6 +129,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0317440122FB725700D65FA9 /* Lesson4.h in Sources */,
 				033E8B3921A8711B00805E4F /* main.c in Sources */,
 				031743FA22FB6FC700D65FA9 /* Lesson3.h in Sources */,
 			);
