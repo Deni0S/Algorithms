@@ -12,6 +12,7 @@
 #include "Lesson3.h"
 #include "Lesson4.h"
 #include "Lesson5.h"
+#include "Lesson6.h"
 
 int main(int argc, const char * argv[]) {
     // Задания по курсу Алгоритмы и Структуры Данных
@@ -23,8 +24,10 @@ int main(int argc, const char * argv[]) {
 //    Lesson3();
 //    printf("--- 4 лекция ---\n");
 //    Lesson4();
-    printf("--- 5 лекция ---\n");
-    Lesson5();
+//    printf("--- 5 лекция ---\n");
+//    Lesson5();
+    printf("--- 6 лекция ---\n");
+    Lesson6();
     
     return 0;
 }
