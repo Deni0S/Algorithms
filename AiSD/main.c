@@ -7,7 +7,12 @@
 //
 
 #include <stdio.h>
+#include "Lesson1.h"
 
 int main(int argc, const char * argv[]) {
+    // Задания по курсу Алгоритмы и Структуры Данных
+    printf("--- 1 лекция ---\n");
+    Lesson1();
+    
     return 0;
 }

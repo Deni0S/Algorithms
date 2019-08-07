@@ -23,6 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		031743EC22FB673D00D65FA9 /* Lesson1.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Lesson1.h; sourceTree = "<group>"; };
 		033E8B3521A8711B00805E4F /* AiSD */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = AiSD; sourceTree = BUILT_PRODUCTS_DIR; };
 		033E8B3821A8711B00805E4F /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				033E8B3821A8711B00805E4F /* main.c */,
+				031743EC22FB673D00D65FA9 /* Lesson1.h */,
 			);
 			path = AiSD;
 			sourceTree = "<group>";
@@ -102,6 +104,7 @@
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
+				Base,
 			);
 			mainGroup = 033E8B2C21A8711B00805E4F;
 			productRefGroup = 033E8B3621A8711B00805E4F /* Products */;
