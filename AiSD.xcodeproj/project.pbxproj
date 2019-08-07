@@ -10,6 +10,7 @@
 		031743FA22FB6FC700D65FA9 /* Lesson3.h in Sources */ = {isa = PBXBuildFile; fileRef = 031743F822FB6FC700D65FA9 /* Lesson3.h */; };
 		0317440122FB725700D65FA9 /* Lesson4.h in Sources */ = {isa = PBXBuildFile; fileRef = 0317440022FB725700D65FA9 /* Lesson4.h */; };
 		0317440C22FB7DAD00D65FA9 /* Lesson7.h in Sources */ = {isa = PBXBuildFile; fileRef = 0317440B22FB7DAD00D65FA9 /* Lesson7.h */; };
+		0317440F22FB85C900D65FA9 /* Lesson8.h in Sources */ = {isa = PBXBuildFile; fileRef = 0317440E22FB85C900D65FA9 /* Lesson8.h */; };
 		033E8B3921A8711B00805E4F /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 033E8B3821A8711B00805E4F /* main.c */; };
 /* End PBXBuildFile section */
 
@@ -36,6 +37,7 @@
 		0317440722FB773E00D65FA9 /* Lesson6.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Lesson6.h; sourceTree = "<group>"; };
 		0317440B22FB7DAD00D65FA9 /* Lesson7.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Lesson7.h; sourceTree = "<group>"; };
 		0317440D22FB7EF200D65FA9 /* Matrix.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = Matrix.txt; sourceTree = "<group>"; };
+		0317440E22FB85C900D65FA9 /* Lesson8.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Lesson8.h; sourceTree = "<group>"; };
 		033E8B3521A8711B00805E4F /* AiSD */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = AiSD; sourceTree = BUILT_PRODUCTS_DIR; };
 		033E8B3821A8711B00805E4F /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -81,6 +83,7 @@
 				0317440722FB773E00D65FA9 /* Lesson6.h */,
 				0317440D22FB7EF200D65FA9 /* Matrix.txt */,
 				0317440B22FB7DAD00D65FA9 /* Lesson7.h */,
+				0317440E22FB85C900D65FA9 /* Lesson8.h */,
 			);
 			path = AiSD;
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0317440F22FB85C900D65FA9 /* Lesson8.h in Sources */,
 				0317440122FB725700D65FA9 /* Lesson4.h in Sources */,
 				0317440C22FB7DAD00D65FA9 /* Lesson7.h in Sources */,
 				033E8B3921A8711B00805E4F /* main.c in Sources */,
